@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+synspace.com	TRUE	/	FALSE	1999999999	pll_language	en
+synspace.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+synspace.com	TRUE	/	FALSE	1999999999	icwp-wpsf-notbot	exp-1771128371
+
